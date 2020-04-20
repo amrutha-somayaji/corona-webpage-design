@@ -1,4 +1,4 @@
 # corona-webpage-design
-web designing contest (glug-pesce)
+Web designing contest (glug-pesce)
 
-static webpage desgining using html and css
+static webpage designing using html and css
